@@ -1,0 +1,95 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void BackgroundRepeat_Start_mD23B52D1DA06B899FD627FFD632306698FE532E5 (void);
+extern void BackgroundRepeat_Update_mD9FE604AC4747CF4B1637F874A16794EDF3C2A46 (void);
+extern void BackgroundRepeat__ctor_mFCF0EC6003AD96499B951E16DDDCB303235DBA90 (void);
+extern void moveLeft_Start_mF208B67A24FA610FF3D2270A060429BA7AFB9BCC (void);
+extern void moveLeft_Update_mCC548550CA525D04B2077BBAE21B35500A06A563 (void);
+extern void moveLeft__ctor_m0EF645FE6610A94AC8F5112AC3251D80F2015D62 (void);
+extern void playerControl_Start_m210DEAA3AE742E6E5A99D1C8CE4C7D68E015B383 (void);
+extern void playerControl_Update_mED2530AA27C839C326BCC17390B4021C3A87C390 (void);
+extern void playerControl_OnCollisionEnter_m6A77D926F296319BE63E592F8BDFABA7D37056E6 (void);
+extern void playerControl__ctor_mAA4F1121B98998D91281C8ADDE77DCC8F72104BD (void);
+extern void Spwanmanage_Start_m3711A16EE05074D405F1329D8283C8B1F26A79D7 (void);
+extern void Spwanmanage_Update_mF5B77445494DC93008F361B488C5A2DC4CB49D88 (void);
+extern void Spwanmanage_spwanAnimal_m38A241BB83CE5243FEA54218DC1E6DF0BFBDA5E1 (void);
+extern void Spwanmanage__ctor_mD85729A306F1A17008E52A3BA8620D924C6194F5 (void);
+extern void SpinObjectsX_Update_m9C5EE349E1608B916F2DF217A48AE96D087956EB (void);
+extern void SpinObjectsX__ctor_m161ED225B7767334CBEBBB7981D66A3DC5AD257B (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[18] = 
+{
+	BackgroundRepeat_Start_mD23B52D1DA06B899FD627FFD632306698FE532E5,
+	BackgroundRepeat_Update_mD9FE604AC4747CF4B1637F874A16794EDF3C2A46,
+	BackgroundRepeat__ctor_mFCF0EC6003AD96499B951E16DDDCB303235DBA90,
+	moveLeft_Start_mF208B67A24FA610FF3D2270A060429BA7AFB9BCC,
+	moveLeft_Update_mCC548550CA525D04B2077BBAE21B35500A06A563,
+	moveLeft__ctor_m0EF645FE6610A94AC8F5112AC3251D80F2015D62,
+	playerControl_Start_m210DEAA3AE742E6E5A99D1C8CE4C7D68E015B383,
+	playerControl_Update_mED2530AA27C839C326BCC17390B4021C3A87C390,
+	playerControl_OnCollisionEnter_m6A77D926F296319BE63E592F8BDFABA7D37056E6,
+	playerControl__ctor_mAA4F1121B98998D91281C8ADDE77DCC8F72104BD,
+	Spwanmanage_Start_m3711A16EE05074D405F1329D8283C8B1F26A79D7,
+	Spwanmanage_Update_mF5B77445494DC93008F361B488C5A2DC4CB49D88,
+	Spwanmanage_spwanAnimal_m38A241BB83CE5243FEA54218DC1E6DF0BFBDA5E1,
+	Spwanmanage__ctor_mD85729A306F1A17008E52A3BA8620D924C6194F5,
+	SpinObjectsX_Update_m9C5EE349E1608B916F2DF217A48AE96D087956EB,
+	SpinObjectsX__ctor_m161ED225B7767334CBEBBB7981D66A3DC5AD257B,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[18] = 
+{
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	946,
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	1119,
+	2158,
+	1119,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	18,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};
